@@ -71,12 +71,67 @@ The deck also discusses:
 
 ---
 
+## 2. Single-Name Equity Research – Alchip (3661.TW)
+
+**Language:** Chinese  
+**Format:** Slide deck (PPTX / PDF)  
+**Role:** Team member (research, structuring, and writing)  
+**Company / Ticker:** Alchip Technologies (世芯-KY) / 3661.TW  
+**Topic:** Business model (design service / turnkey), AI ASIC project pipeline, growth catalysts, risk factors, and valuation conclusion  
+
+### 2.1 Scope & Objectives
+
+This deck is a single-name equity research note that builds on the industry framework and answers three core questions:
+
+- **Positioning:** Where does Alchip sit in the AI ASIC value chain, and what is its role in customer programs?  
+- **Earnings power:** What are the growth engines (major programs, nodes, ramps), and how do they translate into revenue / margin expansion?  
+- **Risk & validation:** What could go wrong (customer concentration, geopolitics, execution), and what datapoints validate or falsify the thesis?  
+
+### 2.2 Company Positioning (Design Service / Turnkey)
+
+The research frames Alchip as a Taiwan-based design service / ASIC turnkey provider, typically involved in:
+
+- Back-end and implementation work (e.g., physical design), tape-out support, and mass production delivery  
+- Coordination across foundry + advanced packaging ecosystems for high-performance AI accelerators  
+- Leveraging deep experience in advanced nodes and packaging requirements (2.5D/3D integration, high bandwidth interfaces)  
+
+### 2.3 Key Growth Engines & Catalysts
+
+Key catalysts emphasized in the deck include:
+
+- **AWS Trainium program ramp:** The note highlights a major AWS AI accelerator program (Trainium generation) as a central driver of forward growth, with a visible ramp schedule and meaningful revenue contribution once mass production begins.  
+- **Next-node pipeline (2nm):** Follow-on generations are discussed as longer-duration optionality contingent on execution and schedule.  
+- **Automotive ADAS ASIC:** A non-cloud growth leg is included via automotive ASIC programs, positioned as diversification beyond hyperscaler demand cycles.  
+- **Ecosystem shifts:** Industry trends that lower integration barriers (e.g., opening up interconnect / platform compatibility) are framed as potential tailwinds for custom ASIC penetration.  
+
+### 2.4 Key Risks & Monitoring Points
+
+The deck flags several risks that are especially important for AI ASIC design service names:
+
+- **Customer concentration risk:** Revenue can be heavily skewed toward one hyperscaler program at peak ramp.  
+- **Execution and schedule risk:** Delays in tape-out, yield learning, packaging capacity, or customer deployment can shift the ramp curve materially.  
+- **Geopolitical / export control risk:** Changes in regulatory constraints may affect customer ability to deploy or source advanced AI silicon.  
+- **Supply chain constraints:** Advanced packaging and HBM availability remain critical bottlenecks for high-end AI accelerator volumes.  
+
+Suggested monitoring indicators:
+
+- Hyperscaler AI capex / deployment signals  
+- Program milestone updates (tape-out, qualification, volume ramp)  
+- Packaging capacity expansion (CoWoS / advanced packaging) and HBM supply dynamics  
+- Management guidance and customer commentary on custom silicon strategy  
+
+### 2.5 Files
+
+- `ai-asic/ai_asic_industry_3661_ellen_2025.pptx`  
+- `ai-asic/ai_asic_industry_3661_ellen_2025.pdf`  
+
+---
+
 ## Future Additions
 
 Over time, this repository may include:
 
 - Additional **industry notes** on AI servers, racks, power and cooling, and networking.  
-- Short **single-name equity memos** linked to my own tools (e.g., Fortune Ticker) and research workflow.
-
-- Additional **industry notes** on AI servers, racks, power and cooling, and networking.
-- Short **single-name equity memos** linked to my own tools (e.g., Fortune Ticker) and research workflow.
+- More **single-name equity research memos** (design services, foundry, advanced packaging, HBM-related names).  
+- Lightweight **data tables / charts** used in the research process (capex trackers, packaging capacity, key KPI dashboards).  
+- Short write-ups linked to my own research workflow tools (e.g., Fortune Ticker).
